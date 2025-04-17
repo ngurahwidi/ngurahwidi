@@ -1,58 +1,54 @@
-<h1 align="center">Hi there, I'm Ngurah Widi 👋</h1>
+<h1 align="center">Hey there 👋, I'm Ngurah Widi</h1>
 <p align="center">🚀 Fullstack Developer | 🎓 Tech Enthusiast | 🌱 Lifelong Learner</p>
 
----
-
-### 💫 About Me
-I'm a passionate **Fullstack Developer** and a **student** currently pursuing my degree. I thrive on solving problems through code and love bringing ideas to life in the form of web applications. Whether it’s frontend magic ✨ or backend logic ⚙️, I enjoy working across the stack to create seamless digital experiences.
-
-- 🔭 Currently building: **dynamic web apps** with Laravel & React
-- 🌱 Learning: **DevOps & system design**
-- ⚡ Fun fact: I love diving into clean code & coffee ☕ fuels my sessions!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Passionate+about+clean+architecture.;Let%E2%80%99s+build+something+great+together!" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🌐 Connect With Me
+### 🌟 About Me
 
-<p align="left">
-  <a href="https://instagram.com/ngurahwidii_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/ngurah-widi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+I'm a passionate **Fullstack Developer** and a dedicated **student**, on a journey to build powerful and meaningful software. I love turning ideas into reality using the magic of code, and I thrive in both frontend ✨ and backend ⚙️ development.
+
+- 🔭 Currently working on: **Modern Web Apps** with Laravel + React  
+- 🌱 Actively learning: **DevOps**, **System Design**, and **Clean Architecture**  
+- ☕ Fun fact: Clean code & strong coffee = perfect duo  
+- 💬 Ask me about: Web Dev, Laravel, React, or career tips!
+
+---
+
+### 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://instagram.com/ngurahwidii_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ngurah-widi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 💻 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,php,laravel,express,nodejs,mysql,prisma" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngurahwidi&theme=swift&hide_border=false&show_icons=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ngurahwidi&theme=swift&hide_border=false" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ngurahwidi&show_icons=true&theme=swift&hide_border=false&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ngurahwidi&theme=swift&hide_border=false" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngurahwidi&theme=swift&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngurahwidi&layout=compact&theme=swift&hide_border=false" />
 </p>
 
 ---
 
-### 🔝 Top Contributed Repositories
+### 🚀 Most Active Repositories
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ngurahwidi&limit=5&theme=swift&combine_all_yearly_contributions=true" />
@@ -60,12 +56,18 @@ I'm a passionate **Fullstack Developer** and a **student** currently pursuing my
 
 ---
 
+### 🧭 Visitor Counter
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ngurahwidi&icon=9&color=12" alt="Profile Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?id=ngurahwidi&label=Profile%20Views&color=12&icon=5" />
 </p>
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+### ✨ Quote of the Day
 
-<!-- Powered by GPRM ( https://gprm.itsvg.in ) -->
+> _"Code is like humor. When you have to explain it, it’s bad." — Cory House_
+
+---
+
+<!-- Powered by GPRM | Inspired by devs around the world 🌎 -->
