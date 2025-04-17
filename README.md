@@ -1,5 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Ngurah Widi</h1>
-<p align="center">🚀 Fullstack Developer | 🎓 Tech Enthusiast | 🌱 Lifelong Learner</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there+👋%2C+I'm+Ngurah+Widi!;🚀+Fullstack+Developer;🎓+Tech+Enthusiast;🌱+Lifelong+Learner" alt="Typing animation" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Passionate+about+clean+architecture.;Let%E2%80%99s+build+something+great+together!" alt="Typing SVG" />
